@@ -1,5 +1,5 @@
 (function () {
-  const user = "apple" + "dev";
+  const user = "collection-manager" + "-support";
   const domain = "kasparek-home" + "." + "de";
   const address = user + "@" + domain;
 
